@@ -1,8 +1,14 @@
 {
-	'in': [
-		{'image':'https://images.indianexpress.com/2017/04/wc-bf.jpg','link':'https://india.com'}
-	],
-	'default': [
-		{'image':'https://t3.ftcdn.net/jpg/03/14/56/66/360_F_314566645_UNHlYyGK2EVdGQ8MoNw95vvH44yknrc7.jpg','link':'https://tiktok.com'}
-	]
+   "in":[
+      {
+         "image":"https://images.indianexpress.com/2017/04/wc-bf.jpg",
+         "link":"https://india.com"
+      }
+   ],
+   "default":[
+      {
+         "image":"https://t3.ftcdn.net/jpg/03/14/56/66/360_F_314566645_UNHlYyGK2EVdGQ8MoNw95vvH44yknrc7.jpg",
+         "link":"https://tiktok.com"
+      }
+   ]
 }
